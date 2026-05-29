@@ -5,7 +5,9 @@
 
 ## Page 1: SJL Jimenez Lunz - Law firm
 **URL:** https://sjl-legal.com/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_.png)
 
 ### Navigation
 - (none)
@@ -43,7 +45,9 @@
 
 ## Page 2: SJL Jimenez Lunz - Values
 **URL:** https://sjl-legal.com/values/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_values_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_values_.png)
 
 ### Navigation
 - (none)
@@ -78,7 +82,9 @@
 
 ## Page 3: SJL Jimenez Lunz - Practices
 **URL:** https://sjl-legal.com/sjl-practices/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_practices_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_practices_.png)
 
 ### Navigation
 - (none)
@@ -114,7 +120,9 @@
 
 ## Page 4: SJL Jimenez Lunz - About the firm
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_.png)
 
 ### Navigation
 - (none)
@@ -144,7 +152,9 @@
 
 ## Page 5: SJL Jimenez Lunz - About the firm
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz.png)
 
 ### Navigation
 - (none)
@@ -174,7 +184,9 @@
 
 ## Page 6: SJL Jimenez Lunz - Practices
 **URL:** https://sjl-legal.com/sjl-practices
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_practices.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_practices.png)
 
 ### Navigation
 - (none)
@@ -210,7 +222,9 @@
 
 ## Page 7: SJL Jimenez Lunz - Practices in Structured Finance & Capital Markets
 **URL:** https://sjl-legal.com/practices-structured-finance-capital-markets/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_structured_finance_capital_markets_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_structured_finance_capital_markets_.png)
 
 ### Navigation
 - (none)
@@ -242,7 +256,9 @@
 
 ## Page 8: PRACTICES : Insolvency & Restructuring - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/practices-insolvency-restructuring/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_insolvency_restructuring_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_insolvency_restructuring_.png)
 
 ### Navigation
 - (none)
@@ -273,7 +289,9 @@
 
 ## Page 9: PRACTICES : Corporate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/practices-corporate/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_corporate_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_corporate_.png)
 
 ### Navigation
 - (none)
@@ -304,7 +322,9 @@
 
 ## Page 10: PRACTICES : Private Equity, Venture Capital & Investment Funds - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/practices-private-equity-venture-capital-investment-funds/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_private_equity_venture_capital_investment_funds_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_private_equity_venture_capital_investment_funds_.png)
 
 ### Navigation
 - (none)
@@ -335,7 +355,9 @@
 
 ## Page 11: SJL Jimenez Lunz - Practices in Bank & Finance
 **URL:** https://sjl-legal.com/practices-banking-finance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_banking_finance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_banking_finance_.png)
 
 ### Navigation
 - (none)
@@ -366,7 +388,9 @@
 
 ## Page 12: SECTORS : Funds - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-funds/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_funds_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_funds_.png)
 
 ### Navigation
 - (none)
@@ -397,7 +421,9 @@
 
 ## Page 13: SECTORS : Energy - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-energy/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_energy_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_energy_.png)
 
 ### Navigation
 - (none)
@@ -428,7 +454,9 @@
 
 ## Page 14: SECTORS : Banks - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-banks/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_banks_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_banks_.png)
 
 ### Navigation
 - (none)
@@ -459,7 +487,9 @@
 
 ## Page 15: PRACTICES : Tax - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/practices-tax/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_tax_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_tax_.png)
 
 ### Navigation
 - (none)
@@ -490,7 +520,9 @@
 
 ## Page 16: Sectors - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_.png)
 
 ### Navigation
 - (none)
@@ -520,7 +552,9 @@
 
 ## Page 17: SECTORS : Industrial - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-industrial/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_industrial_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_industrial_.png)
 
 ### Navigation
 - (none)
@@ -551,7 +585,9 @@
 
 ## Page 18: SECTORS : Media - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-media/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_media_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_media_.png)
 
 ### Navigation
 - (none)
@@ -582,7 +618,9 @@
 
 ## Page 19: SECTORS : Insurance - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-insurance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_insurance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_insurance_.png)
 
 ### Navigation
 - (none)
@@ -613,7 +651,9 @@
 
 ## Page 20: SECTORS : Investment Management - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-investment-management/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investment_management_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investment_management_.png)
 
 ### Navigation
 - (none)
@@ -644,7 +684,9 @@
 
 ## Page 21: SECTORS : Private equity - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-private-equity/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_private_equity_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_private_equity_.png)
 
 ### Navigation
 - (none)
@@ -675,7 +717,9 @@
 
 ## Page 22: SECTORS : Real Estate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-real-estate/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_real_estate_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_real_estate_.png)
 
 ### Navigation
 - (none)
@@ -706,7 +750,9 @@
 
 ## Page 23: Team: Our lawyers’ high-end expertise encompasses all areas of Luxembourg business law. - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/team/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_team_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_team_.png)
 
 ### Navigation
 - (none)
@@ -736,7 +782,9 @@
 
 ## Page 24: SECTORS : Telecommunications - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-telecommunications/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_telecommunications_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_telecommunications_.png)
 
 ### Navigation
 - (none)
@@ -767,7 +815,9 @@
 
 ## Page 25: SECTORS : Technology - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-technology/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_technology_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_technology_.png)
 
 ### Navigation
 - (none)
@@ -798,7 +848,9 @@
 
 ## Page 26: Team: Our lawyers’ high-end expertise encompasses all areas of Luxembourg business law. - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/team
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_team.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_team.png)
 
 ### Navigation
 - (none)
@@ -828,7 +880,9 @@
 
 ## Page 27: SENIOR TEAM - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/senior-team/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_.png)
 
 ### Navigation
 - (none)
@@ -857,7 +911,9 @@
 
 ## Page 28: Career : SJL attracts, develops and retains the most talented people. - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/carrer/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_carrer_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_carrer_.png)
 
 ### Navigation
 - (none)
@@ -887,7 +943,9 @@
 
 ## Page 29: Antoine Fortier Grethen: Partner & Head of the Fund Finance Practice of SJL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/senior-team/antoine-fortier-grethen-partner-head-of-the-fund-finance-practice-of-sjl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_antoine_fortier_grethen_partner_head_of_the_fund_finan.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_antoine_fortier_grethen_partner_head_of_the_fund_finan.png)
 
 ### Navigation
 - (none)
@@ -924,7 +982,9 @@
 
 ## Page 30: Michel Jimenez Lunz : Founding and Managing Partner of SJL, "He is fantastic, a choice lawyer, and I am really pleased to have found him" – Chambers Europe - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/michel-jimenez-lunz/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_michel_jimenez_lunz_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_michel_jimenez_lunz_.png)
 
 ### Navigation
 - (none)
@@ -962,7 +1022,9 @@
 
 ## Page 31: TRACK RECORD - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record.png)
 
 ### Navigation
 - (none)
@@ -998,7 +1060,9 @@
 
 ## Page 32: TRACK RECORD - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_.png)
 
 ### Navigation
 - (none)
@@ -1034,7 +1098,9 @@
 
 ## Page 33: TRACK RECORD : Corporate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-corporate/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_corporate_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_corporate_.png)
 
 ### Navigation
 - (none)
@@ -1065,7 +1131,9 @@
 
 ## Page 34: TRACK RECORD : Banking & Finance / Corporate Finance - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-banking-finance-corporate-finance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_banking_finance_corporate_finance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_banking_finance_corporate_finance_.png)
 
 ### Navigation
 - (none)
@@ -1096,7 +1164,9 @@
 
 ## Page 35: TRACK RECORD : Insolvency / Restructuring - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-restructuring-insolvency/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_restructuring_insolvency_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_restructuring_insolvency_.png)
 
 ### Navigation
 - (none)
@@ -1127,7 +1197,9 @@
 
 ## Page 36: TRACK RECORD : Private Equity / Venture Capital / Investment Funds - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-private-equity-venture-capital-investment-funds/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_private_equity_venture_capital_investment_funds_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_private_equity_venture_capital_investment_funds_.png)
 
 ### Navigation
 - (none)
@@ -1158,7 +1230,9 @@
 
 ## Page 37: TRACK RECORD : Tax - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-tax/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_tax_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_tax_.png)
 
 ### Navigation
 - (none)
@@ -1189,7 +1263,9 @@
 
 ## Page 38: Credits & Awards : SJL is a highly recommended and acclaimed business law firm. - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/credits/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_credits_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_credits_.png)
 
 ### Navigation
 - (none)
@@ -1227,7 +1303,9 @@
 
 ## Page 39: TRACK RECORD : Capital Markets / Structured Finance / Securitisation - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-capital-markets-structured-finance-securisation/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_capital_markets_structured_finance_securisation_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_capital_markets_structured_finance_securisation_.png)
 
 ### Navigation
 - (none)
@@ -1258,7 +1336,9 @@
 
 ## Page 40: Blog - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog.png)
 
 ### Navigation
 - (none)
@@ -1293,7 +1373,9 @@
 
 ## Page 41: Blog - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_.png)
 
 ### Navigation
 - (none)
@@ -1328,7 +1410,9 @@
 
 ## Page 42: CONTACT - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/contact/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_contact_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_contact_.png)
 
 ### Navigation
 - (none)
@@ -1359,7 +1443,9 @@
 
 ## Page 43: SELECTION - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/service/selection/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_selection_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_selection_.png)
 
 ### Navigation
 - (none)
@@ -1390,7 +1476,9 @@
 
 ## Page 44: SAVOIR FAIRE - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/service/savoir-faire/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_savoir_faire_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_savoir_faire_.png)
 
 ### Navigation
 - (none)
@@ -1421,7 +1509,9 @@
 
 ## Page 45: EXCELLENCE - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/service/excellence/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_excellence_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_excellence_.png)
 
 ### Navigation
 - (none)
@@ -1452,7 +1542,9 @@
 
 ## Page 46: RESPONSIVENESS, PROACTIVITY & FORESIGHT - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/service/responsiveness-proactivity-foresight/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_responsiveness_proactivity_foresight_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_responsiveness_proactivity_foresight_.png)
 
 ### Navigation
 - (none)
@@ -1483,7 +1575,9 @@
 
 ## Page 47: CLIENT CARE - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/service/client-care/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_client_care_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_service_client_care_.png)
 
 ### Navigation
 - (none)
@@ -1513,7 +1607,9 @@
 
 ## Page 48: Antoine Fortier-Grethen joins SJL Jimenez Lunz - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/antoine-fortier-grethen/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_antoine_fortier_grethen_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_antoine_fortier_grethen_.png)
 
 ### Navigation
 - (none)
@@ -1545,7 +1641,9 @@
 
 ## Page 49: Page not found - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/lavenu/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_lavenu_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_lavenu_.png)
 
 ### Navigation
 - (none)
@@ -1574,7 +1672,9 @@
 
 ## Page 50: SJL in Chambers Europe 2024 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-in-chambers-europe-2024/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_in_chambers_europe_2024_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_in_chambers_europe_2024_.png)
 
 ### Navigation
 - (none)
@@ -1604,7 +1704,9 @@
 
 ## Page 51: SJL Jimenez Lunz - Practices in Bank & Finance
 **URL:** https://sjl-legal.com/practices/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_practices_.png)
 
 ### Navigation
 - (none)
@@ -1635,7 +1737,9 @@
 
 ## Page 52: SECTORS : Banks - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-banks
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_banks.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_banks.png)
 
 ### Navigation
 - (none)
@@ -1666,7 +1770,9 @@
 
 ## Page 53: SECTORS : Energy - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-energy
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_energy.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_energy.png)
 
 ### Navigation
 - (none)
@@ -1697,7 +1803,9 @@
 
 ## Page 54: SECTORS : Funds - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-funds
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_funds.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_funds.png)
 
 ### Navigation
 - (none)
@@ -1728,7 +1836,9 @@
 
 ## Page 55: SECTORS : Insurance - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-insurance
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_insurance.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_insurance.png)
 
 ### Navigation
 - (none)
@@ -1759,7 +1869,9 @@
 
 ## Page 56: SECTORS : Industrial - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-industrial
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_industrial.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_industrial.png)
 
 ### Navigation
 - (none)
@@ -1790,7 +1902,9 @@
 
 ## Page 57: Page not found - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-investments-management
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investments_management.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investments_management.png)
 
 ### Navigation
 - (none)
@@ -1819,7 +1933,9 @@
 
 ## Page 58: SECTORS : Media - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-media
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_media.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_media.png)
 
 ### Navigation
 - (none)
@@ -1850,7 +1966,9 @@
 
 ## Page 59: SECTORS : Private equity - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-private-equity
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_private_equity.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_private_equity.png)
 
 ### Navigation
 - (none)
@@ -1881,7 +1999,9 @@
 
 ## Page 60: SECTORS : Telecommunications - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-telecommunications
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_telecommunications.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_telecommunications.png)
 
 ### Navigation
 - (none)
@@ -1912,7 +2032,9 @@
 
 ## Page 61: SECTORS : Real Estate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-real-estate
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_real_estate.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_real_estate.png)
 
 ### Navigation
 - (none)
@@ -1943,7 +2065,9 @@
 
 ## Page 62: SECTORS : Investment Management - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sectors-investment-management
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investment_management.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sectors_investment_management.png)
 
 ### Navigation
 - (none)
@@ -1974,7 +2098,9 @@
 
 ## Page 63: Antoine Fortier Grethen: Partner & Head of the Fund Finance Practice of SJL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/senior-team/antoine-fortier-grethen-partner-head-of-the-fund-finance-practice-of-sjl
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_antoine_fortier_grethen_partner_head_of_the_fund_finan.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_senior_team_antoine_fortier_grethen_partner_head_of_the_fund_finan.png)
 
 ### Navigation
 - (none)
@@ -2011,7 +2137,9 @@
 
 ## Page 64: TRACK RECORD : Private Equity / Venture Capital / Investment Funds - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-private-equity-venture-capital-investment-funds
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_private_equity_venture_capital_investment_funds.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_private_equity_venture_capital_investment_funds.png)
 
 ### Navigation
 - (none)
@@ -2042,7 +2170,9 @@
 
 ## Page 65: TRACK RECORD : Capital Markets / Structured Finance / Securitisation - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-capital-markets-structured-finance-securisation
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_capital_markets_structured_finance_securisation.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_capital_markets_structured_finance_securisation.png)
 
 ### Navigation
 - (none)
@@ -2073,7 +2203,9 @@
 
 ## Page 66: TRACK RECORD : Corporate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-corporate
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_corporate.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_corporate.png)
 
 ### Navigation
 - (none)
@@ -2104,7 +2236,9 @@
 
 ## Page 67: TRACK RECORD : Banking & Finance / Corporate Finance - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-banking-finance-corporate-finance
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_banking_finance_corporate_finance.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_banking_finance_corporate_finance.png)
 
 ### Navigation
 - (none)
@@ -2135,7 +2269,9 @@
 
 ## Page 68: TRACK RECORD : Insolvency / Restructuring - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-restructuring-insolvency
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_restructuring_insolvency.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_restructuring_insolvency.png)
 
 ### Navigation
 - (none)
@@ -2166,7 +2302,9 @@
 
 ## Page 69: SJL Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_.png)
 
 ### Navigation
 - (none)
@@ -2202,7 +2340,9 @@
 
 ## Page 70: SJL ranks again as a Tier 2 powerhouse in Real Estate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-ranks-again-as-a-tier-2-powerhouse-in-real-estate/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_ranks_again_as_a_tier_2_powerhouse_in_real_estate_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_ranks_again_as_a_tier_2_powerhouse_in_real_estate_.png)
 
 ### Navigation
 - (none)
@@ -2232,7 +2372,9 @@
 
 ## Page 71: michel, Author at SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/author/michel/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_.png)
 
 ### Navigation
 - (none)
@@ -2268,7 +2410,9 @@
 
 ## Page 72: TRACK RECORD : Tax - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/track-record-tax
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_tax.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_track_record_tax.png)
 
 ### Navigation
 - (none)
@@ -2299,7 +2443,9 @@
 
 ## Page 73: Modernisation of Luxembourg insolvency proceedings - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/modernisation-of-luxembourg-insolvency-proceedings/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_modernisation_of_luxembourg_insolvency_proceedings_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_modernisation_of_luxembourg_insolvency_proceedings_.png)
 
 ### Navigation
 - (none)
@@ -2329,7 +2475,9 @@
 
 ## Page 74: Fund Finance Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/fund-finance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_.png)
 
 ### Navigation
 - (none)
@@ -2365,7 +2513,9 @@
 
 ## Page 75: A Look at Fund Finance in Luxembourg 2022: Trends, Developments, and Insights - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/a-look-at-fund-finance-in-luxembourg-2022-trends-developments-and-insights/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_look_at_fund_finance_in_luxembourg_2022_trends_developments_and_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_look_at_fund_finance_in_luxembourg_2022_trends_developments_and_.png)
 
 ### Navigation
 - (none)
@@ -2395,7 +2545,9 @@
 
 ## Page 76: SJL Jimenez Lunz ranks as a Tier 2 powerhouse in Real Estate - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz-ranks-as-a-tier-2-powerhouse-in-real-estate/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_ranks_as_a_tier_2_powerhouse_in_real_estate_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_ranks_as_a_tier_2_powerhouse_in_real_estate_.png)
 
 ### Navigation
 - (none)
@@ -2425,7 +2577,9 @@
 
 ## Page 77: New Luxembourg Securitization Law - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/new-luxembourg-securitization-law/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_new_luxembourg_securitization_law_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_new_luxembourg_securitization_law_.png)
 
 ### Navigation
 - (none)
@@ -2456,7 +2610,9 @@
 
 ## Page 78: Investment Funds Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/investment-funds/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_.png)
 
 ### Navigation
 - (none)
@@ -2492,7 +2648,9 @@
 
 ## Page 79: Active Management Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/active-management/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_active_management_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_active_management_.png)
 
 ### Navigation
 - (none)
@@ -2523,7 +2681,9 @@
 
 ## Page 80: CDO/CLOs Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/cdo-clos/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_cdo_clos_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_cdo_clos_.png)
 
 ### Navigation
 - (none)
@@ -2554,7 +2714,9 @@
 
 ## Page 81: flash news Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/flash-news/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_flash_news_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_flash_news_.png)
 
 ### Navigation
 - (none)
@@ -2589,7 +2751,9 @@
 
 ## Page 82: Structured Finance Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/structured-finance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_structured_finance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_structured_finance_.png)
 
 ### Navigation
 - (none)
@@ -2620,7 +2784,9 @@
 
 ## Page 83: Securitization Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/securitization/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_securitization_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_securitization_.png)
 
 ### Navigation
 - (none)
@@ -2651,7 +2817,9 @@
 
 ## Page 84: Blog - Page 2 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_2_.png)
 
 ### Navigation
 - (none)
@@ -2686,7 +2854,9 @@
 
 ## Page 85: Blog - Page 3 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/3/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_3_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_3_.png)
 
 ### Navigation
 - (none)
@@ -2721,7 +2891,9 @@
 
 ## Page 86: Blog - Page 4 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/4/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_4_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_4_.png)
 
 ### Navigation
 - (none)
@@ -2756,7 +2928,9 @@
 
 ## Page 87: Blog - Page 10 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/10/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_10_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_10_.png)
 
 ### Navigation
 - (none)
@@ -2790,7 +2964,9 @@
 
 ## Page 88: Blog - Page 5 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/5/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_5_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_5_.png)
 
 ### Navigation
 - (none)
@@ -2825,7 +3001,9 @@
 
 ## Page 89: Antoine Fortier-Grethen joins SJL Jimenez Lunz - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/antoine-fortier-grethen-joins-sjl-jimenez-lunz/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_antoine_fortier_grethen_joins_sjl_jimenez_lunz_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_antoine_fortier_grethen_joins_sjl_jimenez_lunz_.png)
 
 ### Navigation
 - (none)
@@ -2857,7 +3035,9 @@
 
 ## Page 90: A Fund Finance Application of the Luxembourg Professional Guarantee Draft Bill - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/a-fund-finance-application-of-the-luxembourg-professional-guarantee-draft-bill/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_fund_finance_application_of_the_luxembourg_professional_guarante.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_fund_finance_application_of_the_luxembourg_professional_guarante.png)
 
 ### Navigation
 - (none)
@@ -2887,7 +3067,9 @@
 
 ## Page 91: SJL Archives - Page 3 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/3/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_3_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_3_.png)
 
 ### Navigation
 - (none)
@@ -2923,7 +3105,9 @@
 
 ## Page 92: SJL Archives - Page 2 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_2_.png)
 
 ### Navigation
 - (none)
@@ -2959,7 +3143,9 @@
 
 ## Page 93: SJL Lexicon Fund Finance Round # 1 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-lexicon-fund-finance-round-1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_lexicon_fund_finance_round_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_lexicon_fund_finance_round_1_.png)
 
 ### Navigation
 - (none)
@@ -2989,7 +3175,9 @@
 
 ## Page 94: SJL Archives - Page 4 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/4/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_4_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_4_.png)
 
 ### Navigation
 - (none)
@@ -3025,7 +3213,9 @@
 
 ## Page 95: SJL Archives - Page 5 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/5/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_5_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_5_.png)
 
 ### Navigation
 - (none)
@@ -3061,7 +3251,9 @@
 
 ## Page 96: A Sanity Checklist for Existing Financing - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/a-sanity-checklist-for-existing/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_sanity_checklist_for_existing_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_a_sanity_checklist_for_existing_.png)
 
 ### Navigation
 - (none)
@@ -3091,7 +3283,9 @@
 
 ## Page 97: michel, Author at SJL JIMENEZ LUNZ - Page 2 of 2
 **URL:** https://sjl-legal.com/author/michel/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_page_2_.png)
 
 ### Navigation
 - (none)
@@ -3127,7 +3321,9 @@
 
 ## Page 98: SJL Archives - Page 10 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/10/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_10_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_10_.png)
 
 ### Navigation
 - (none)
@@ -3158,7 +3354,9 @@
 
 ## Page 99: SJL Contributes to the 4th Edition of the GLI Fund Finance 2020 Book - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-contributes-to-the-4th-edition-of-the-gli-fund-finance-2020-book/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_contributes_to_the_4th_edition_of_the_gli_fund_finance_2020_bo.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_contributes_to_the_4th_edition_of_the_gli_fund_finance_2020_bo.png)
 
 ### Navigation
 - (none)
@@ -3188,7 +3386,9 @@
 
 ## Page 100: jimenezlunz, Author at SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/author/jimenezlunz/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_.png)
 
 ### Navigation
 - (none)
@@ -3224,7 +3424,9 @@
 
 ## Page 101: Events Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/events/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_events_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_events_.png)
 
 ### Navigation
 - (none)
@@ -3257,7 +3459,9 @@
 
 ## Page 102: SJL is sponsoring the 2019 European Fund Finance Symposium - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-sponsoring-the-2019-european-fund-finance-symposium/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_sponsoring_the_2019_european_fund_finance_symposium_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_sponsoring_the_2019_european_fund_finance_symposium_.png)
 
 ### Navigation
 - (none)
@@ -3287,7 +3491,9 @@
 
 ## Page 103: Fund Finance Archives - Page 2 of 2 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/fund-finance/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_page_2_.png)
 
 ### Navigation
 - (none)
@@ -3318,7 +3524,9 @@
 
 ## Page 104: Investment Funds Archives - Page 2 of 2 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/investment-funds/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_page_2_.png)
 
 ### Navigation
 - (none)
@@ -3349,7 +3557,9 @@
 
 ## Page 105: SJL is an official patron of the 58th international contemporary art Venice Biennale - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-an-official-patron-of-the-58th-international-contemporary-art-venice-biennale/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_an_official_patron_of_the_58th_international_contemporary_a.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_an_official_patron_of_the_58th_international_contemporary_a.png)
 
 ### Navigation
 - (none)
@@ -3379,7 +3589,9 @@
 
 ## Page 106: Grand Ducal regulation of 20 March 2020 dealing with the introduction of measures concerning the holding of meetings in companies and in other legal entities - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/grand-ducal-regulation-of-20-march-2020-dealing-with-the-introduction-of-measures-concerning-the-holding-of-meetings-in-companies-and-in-other-legal-entities/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_grand_ducal_regulation_of_20_march_2020_dealing_with_the_introduct.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_grand_ducal_regulation_of_20_march_2020_dealing_with_the_introduct.png)
 
 ### Navigation
 - (none)
@@ -3409,7 +3621,9 @@
 
 ## Page 107: Blog - Page 6 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/6/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_6_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_6_.png)
 
 ### Navigation
 - (none)
@@ -3444,7 +3658,9 @@
 
 ## Page 108: Blog - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_1_.png)
 
 ### Navigation
 - (none)
@@ -3479,7 +3695,9 @@
 
 ## Page 109: BREXIT - Luxembourg prepared for Brexit – two draft bills are voted for the protection of the financial sector - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/brexit-luxembourg-prepared-for-brexit-two-draft-bills-are-voted-for-the-protection-of-the-financial-sector/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_brexit_luxembourg_prepared_for_brexit_two_draft_bills_are_voted_fo.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_brexit_luxembourg_prepared_for_brexit_two_draft_bills_are_voted_fo.png)
 
 ### Navigation
 - (none)
@@ -3509,7 +3727,9 @@
 
 ## Page 110: Brexit Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/brexit/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_brexit_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_brexit_.png)
 
 ### Navigation
 - (none)
@@ -3540,7 +3760,9 @@
 
 ## Page 111: Financial Sector Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/financial-sector/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_financial_sector_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_financial_sector_.png)
 
 ### Navigation
 - (none)
@@ -3571,7 +3793,9 @@
 
 ## Page 112: FUND FINANCING - The limited partnership agreement: why should lenders care about? - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/fund-financing-the-limited-partnership-agreement-why-should-lenders-care-about/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_fund_financing_the_limited_partnership_agreement_why_should_lender.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_fund_financing_the_limited_partnership_agreement_why_should_lender.png)
 
 ### Navigation
 - (none)
@@ -3602,7 +3826,9 @@
 
 ## Page 113: NOW! - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/now/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_now_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_now_.png)
 
 ### Navigation
 - (none)
@@ -3633,7 +3859,9 @@
 
 ## Page 114: Blog - Page 7 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/7/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_7_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_7_.png)
 
 ### Navigation
 - (none)
@@ -3668,7 +3896,9 @@
 
 ## Page 115: Brexit: Delegation of investment management, temporary permissions regimes and notification obligation - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/brexit-delegation-of-investment-management-temporary-permissions-regimes-and-notification-obligation/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_brexit_delegation_of_investment_management_temporary_permissions_r.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_brexit_delegation_of_investment_management_temporary_permissions_r.png)
 
 ### Navigation
 - (none)
@@ -3700,7 +3930,9 @@
 
 ## Page 116: SJL Jimenez Lunz supports the participation of the Grand Duchy of Luxembourg at the 57th International Art Exhibition - La Biennale di Venezia - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz-supports-the-participation-of-the-grand-duchy-of-luxembourg-at-the-57th-international-art-exhibition-la-biennale-di-venezia/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_supports_the_participation_of_the_grand_duchy_of_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_supports_the_participation_of_the_grand_duchy_of_.png)
 
 ### Navigation
 - (none)
@@ -3730,7 +3962,9 @@
 
 ## Page 117: SJL Jimenez Lunz advises PBB Deutsche Pfandbriefbank and Helaba on the financing of CBRE European Shopping Centre Fund II (ESCF II) - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz-advises-pbb-deutsche-pfandbriefbank-and-helaba-on-the-financing-of-cbre-european-shopping-centre-fund-ii-escf-ii/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_advises_pbb_deutsche_pfandbriefbank_and_helaba_on.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_advises_pbb_deutsche_pfandbriefbank_and_helaba_on.png)
 
 ### Navigation
 - (none)
@@ -3760,7 +3994,9 @@
 
 ## Page 118: SJL Jimenez Lunz advises Pradera on the acquisition of a EUR 900 million pan-European real estate portfolio of IKEA Centres - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz-advises-pradera-on-the-acquisition-of-a-eur-900-million-pan-european-real-estate-portfolio-of-ikea-centres/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_advises_pradera_on_the_acquisition_of_a_eur_900_m.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_advises_pradera_on_the_acquisition_of_a_eur_900_m.png)
 
 ### Navigation
 - (none)
@@ -3790,7 +4026,9 @@
 
 ## Page 119: NEWSFLASH : Un nouveau type de FIA flexible introduit prochainement en droit luxembourgeois : le fonds d’investissement alternatif réservé (« FIAR ») - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/newsflash-un-nouveau-type-de-fia-flexible-introduit-prochainement-en-droit-luxembourgeois-le-fonds-dinvestissement-alternatif-reserve-fiar/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_un_nouveau_type_de_fia_flexible_introduit_prochainement_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_un_nouveau_type_de_fia_flexible_introduit_prochainement_.png)
 
 ### Navigation
 - (none)
@@ -3820,7 +4058,9 @@
 
 ## Page 120: NEWSFLASH : Baldige Einführung eines neuartigen Investmentfonds nach Luxemburger Recht: der Reservierte Alternative Investmentfonds (“RAIF”) - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/newsflash-baldige-einfuhrung-eines-neuartigen-investmentfonds-nach-luxemburger-recht-der-reservierte-alternative-investmentfonds-raif/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_baldige_einfuhrung_eines_neuartigen_investmentfonds_nach.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_baldige_einfuhrung_eines_neuartigen_investmentfonds_nach.png)
 
 ### Navigation
 - (none)
@@ -3850,7 +4090,9 @@
 
 ## Page 121: NEWSFLASH : New type of flexible AIF to be introduced into Luxembourg law soon: the Reserved Alternative Investment Fund (“RAIF”) - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/newsflash-new-type-of-flexible-aif-to-be-introduced-into-luxembourg-law-soon-the-reserved-alternative-investment-fund-raif/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_new_type_of_flexible_aif_to_be_introduced_into_luxembour.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_new_type_of_flexible_aif_to_be_introduced_into_luxembour.png)
 
 ### Navigation
 - (none)
@@ -3880,7 +4122,9 @@
 
 ## Page 122: Blog - Page 8 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/8/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_8_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_8_.png)
 
 ### Navigation
 - (none)
@@ -3915,7 +4159,9 @@
 
 ## Page 123: SJL becomes a member of the ALFI - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-becomes-a-member-of-the-alfi/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_becomes_a_member_of_the_alfi_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_becomes_a_member_of_the_alfi_.png)
 
 ### Navigation
 - (none)
@@ -3945,7 +4191,9 @@
 
 ## Page 124: SJL participates to the opening of the representative office of the ALFI in Hong Kong - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-participates-to-the-opening-of-the-representative-office-of-the-alfi-in-hong-kong/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_participates_to_the_opening_of_the_representative_office_of_th.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_participates_to_the_opening_of_the_representative_office_of_th.png)
 
 ### Navigation
 - (none)
@@ -3975,7 +4223,9 @@
 
 ## Page 125: SJL participates to the seminar organised by Luxembourg for Finance and the Istanbul Stock Exchange - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-participates-to-the-seminar-organised-by-luxembourg-for-finance-and-the-istanbul-stock-exchange/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_participates_to_the_seminar_organised_by_luxembourg_for_financ.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_participates_to_the_seminar_organised_by_luxembourg_for_financ.png)
 
 ### Navigation
 - (none)
@@ -4005,7 +4255,9 @@
 
 ## Page 126: SJL sponsors the Luxembourg stand at the Expo Real 2010 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-sponsors-the-luxembourg-stand-at-the-expo-real-2010/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_sponsors_the_luxembourg_stand_at_the_expo_real_2010_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_sponsors_the_luxembourg_stand_at_the_expo_real_2010_.png)
 
 ### Navigation
 - (none)
@@ -4035,7 +4287,9 @@
 
 ## Page 127: Uncategorized Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/uncategorized/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_uncategorized_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_uncategorized_.png)
 
 ### Navigation
 - (none)
@@ -4069,7 +4323,9 @@
 
 ## Page 128: SJL becomes a member of the ABBL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-becomes-a-member-of-the-abbl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_becomes_a_member_of_the_abbl_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_becomes_a_member_of_the_abbl_.png)
 
 ### Navigation
 - (none)
@@ -4099,7 +4355,9 @@
 
 ## Page 129: Blog - Page 9 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/blog/page/9/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_9_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_blog_page_9_.png)
 
 ### Navigation
 - (none)
@@ -4134,7 +4392,9 @@
 
 ## Page 130: NEWSFLASH : OECD’s Tax transparency award for Luxembourg - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/newsflash-oecds-tax-transparency-award-for-luxembourg/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_oecds_tax_transparency_award_for_luxembourg_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_oecds_tax_transparency_award_for_luxembourg_.png)
 
 ### Navigation
 - (none)
@@ -4164,7 +4424,9 @@
 
 ## Page 131: NEWSFLASH : Tax changes introduced by two new Luxembourg tax bills - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/newsflash-tax-changes-introduced-by-two-new-luxembourg-tax-bills/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_tax_changes_introduced_by_two_new_luxembourg_tax_bills_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_newsflash_tax_changes_introduced_by_two_new_luxembourg_tax_bills_.png)
 
 ### Navigation
 - (none)
@@ -4194,7 +4456,9 @@
 
 ## Page 132: SJL recommended in the new edition of IFLR1000's Financial and Corporate Guide - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-recommended-in-the-new-edition-of-iflr1000s-financial-and-corporate-guide/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_recommended_in_the_new_edition_of_iflr1000s_financial_and_corp.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_recommended_in_the_new_edition_of_iflr1000s_financial_and_corp.png)
 
 ### Navigation
 - (none)
@@ -4224,7 +4488,9 @@
 
 ## Page 133: NEWS : The Simplified S.à r.l.: “How to S.à r.l. for Dummies” or a new tool for the finance sector? - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/news-the-simplified-s-a-r-l-how-to-s-a-r-l-for-dummies-or-a-new-tool-for-the-finance-sector/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_news_the_simplified_s_a_r_l_how_to_s_a_r_l_for_dummies_or_a_new_to.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_news_the_simplified_s_a_r_l_how_to_s_a_r_l_for_dummies_or_a_new_to.png)
 
 ### Navigation
 - (none)
@@ -4254,7 +4520,9 @@
 
 ## Page 134: 2015 - SJL awarded at the Trophées du Droit - Leaders League in Paris - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/2015-sjl-awarded-at-the-trophees-du-droit-leaders-league-in-paris/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_2015_sjl_awarded_at_the_trophees_du_droit_leaders_league_in_paris_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_2015_sjl_awarded_at_the_trophees_du_droit_leaders_league_in_paris_.png)
 
 ### Navigation
 - (none)
@@ -4284,7 +4552,9 @@
 
 ## Page 135: SJL Jimenez Lunz supports the MUDAM and the participation of the Grand Duchy of Luxembourg at the 56th Venice Biennale - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-jimenez-lunz-supports-the-mudam-and-the-participation-of-the-grand-duchy-of-luxembourg-at-the-56th-venice-biennale/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_supports_the_mudam_and_the_participation_of_the_g.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_jimenez_lunz_supports_the_mudam_and_the_participation_of_the_g.png)
 
 ### Navigation
 - (none)
@@ -4314,7 +4584,9 @@
 
 ## Page 136: Page not found - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/iulia-gay/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_iulia_gay_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_iulia_gay_.png)
 
 ### Navigation
 - (none)
@@ -4343,7 +4615,9 @@
 
 ## Page 137: SJL Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_1_.png)
 
 ### Navigation
 - (none)
@@ -4379,7 +4653,9 @@
 
 ## Page 138: SJL Archives - Page 7 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/7/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_7_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_7_.png)
 
 ### Navigation
 - (none)
@@ -4415,7 +4691,9 @@
 
 ## Page 139: SJL Archives - Page 6 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/6/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_6_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_6_.png)
 
 ### Navigation
 - (none)
@@ -4451,7 +4729,9 @@
 
 ## Page 140: #Lexicon Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/lexicon/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_lexicon_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_lexicon_.png)
 
 ### Navigation
 - (none)
@@ -4482,7 +4762,9 @@
 
 ## Page 141: #RAIF Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/raif/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_raif_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_raif_.png)
 
 ### Navigation
 - (none)
@@ -4513,7 +4795,9 @@
 
 ## Page 142: #ReservedAlternativeInvestmentFunds Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/reservedalternativeinvestmentfunds/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_reservedalternativeinvestmentfunds_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_reservedalternativeinvestmentfunds_.png)
 
 ### Navigation
 - (none)
@@ -4544,7 +4828,9 @@
 
 ## Page 143: SJL Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/sjl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_sjl_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_sjl_.png)
 
 ### Navigation
 - (none)
@@ -4576,7 +4862,9 @@
 
 ## Page 144: FundFinance Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/fundfinance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_fundfinance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_fundfinance_.png)
 
 ### Navigation
 - (none)
@@ -4608,7 +4896,9 @@
 
 ## Page 145: SJL Archives - Page 8 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/8/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_8_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_8_.png)
 
 ### Navigation
 - (none)
@@ -4644,7 +4934,9 @@
 
 ## Page 146: The Legal500 recommends SJL in Banking & Finance, Corporate M&A, Investment Funds and Capital Markets - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/the-legal500-recommends-sjl-in-banking-finance-corporate-ma-investment-funds-and-capital-markets/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_the_legal500_recommends_sjl_in_banking_finance_corporate_ma_invest.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_the_legal500_recommends_sjl_in_banking_finance_corporate_ma_invest.png)
 
 ### Navigation
 - (none)
@@ -4674,7 +4966,9 @@
 
 ## Page 147: SJL Archives - Page 9 of 10 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/sil/page/9/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_9_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_sil_page_9_.png)
 
 ### Navigation
 - (none)
@@ -4710,7 +5004,9 @@
 
 ## Page 148: FFA Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/ffa/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_ffa_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_ffa_.png)
 
 ### Navigation
 - (none)
@@ -4741,7 +5037,9 @@
 
 ## Page 149: GLIFundFinance Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/glifundfinance/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_glifundfinance_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_glifundfinance_.png)
 
 ### Navigation
 - (none)
@@ -4772,7 +5070,9 @@
 
 ## Page 150: GLIFundFinance2020 Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/glifundfinance2020/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_glifundfinance2020_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_glifundfinance2020_.png)
 
 ### Navigation
 - (none)
@@ -4803,7 +5103,9 @@
 
 ## Page 151: michel, Author at SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/author/michel/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_michel_page_1_.png)
 
 ### Navigation
 - (none)
@@ -4839,7 +5141,9 @@
 
 ## Page 152: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 3 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/3/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_3_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_3_.png)
 
 ### Navigation
 - (none)
@@ -4875,7 +5179,9 @@
 
 ## Page 153: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 2 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/2/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_2_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_2_.png)
 
 ### Navigation
 - (none)
@@ -4911,7 +5217,9 @@
 
 ## Page 154: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 4 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/4/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_4_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_4_.png)
 
 ### Navigation
 - (none)
@@ -4947,7 +5255,9 @@
 
 ## Page 155: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 5 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/5/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_5_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_5_.png)
 
 ### Navigation
 - (none)
@@ -4983,7 +5293,9 @@
 
 ## Page 156: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 8 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/8/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_8_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_8_.png)
 
 ### Navigation
 - (none)
@@ -5018,7 +5330,9 @@
 
 ## Page 157: Fund Finance Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/fund-finance/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_fund_finance_page_1_.png)
 
 ### Navigation
 - (none)
@@ -5054,7 +5368,9 @@
 
 ## Page 158: SJL - End of year Cocktail Reception at the MUDAM Luxembourg - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-end-of-year-cocktail-reception-at-the-mudam-luxembourg/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_end_of_year_cocktail_reception_at_the_mudam_luxembourg_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_end_of_year_cocktail_reception_at_the_mudam_luxembourg_.png)
 
 ### Navigation
 - (none)
@@ -5084,7 +5400,9 @@
 
 ## Page 159: Investment Funds Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/category/investment-funds/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_category_investment_funds_page_1_.png)
 
 ### Navigation
 - (none)
@@ -5120,7 +5438,9 @@
 
 ## Page 160: Page not found - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/charline-dubas/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_charline_dubas_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_charline_dubas_.png)
 
 ### Navigation
 - (none)
@@ -5149,7 +5469,9 @@
 
 ## Page 161: Contemporary Art & Design Initiative Archives - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tag/contemporary-art-design-initiative/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_contemporary_art_design_initiative_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tag_contemporary_art_design_initiative_.png)
 
 ### Navigation
 - (none)
@@ -5180,7 +5502,9 @@
 
 ## Page 162: NEWS FLASH : CSSF summarises duties in respect of EMIR for non financial counterparties - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/news-flash-cssf-summarises-duties-in-respect-of-emir-for-non-financial-counterparties/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_news_flash_cssf_summarises_duties_in_respect_of_emir_for_non_finan.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_news_flash_cssf_summarises_duties_in_respect_of_emir_for_non_finan.png)
 
 ### Navigation
 - (none)
@@ -5210,7 +5534,9 @@
 
 ## Page 163: TAX NEWS : Luxembourg is showing off its reliable tax reputation within the Luxleaks context - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tax-news-luxembourg-is-showing-off-its-reliable-tax-reputation-within-the-luxleaks-context/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tax_news_luxembourg_is_showing_off_its_reliable_tax_reputation_wit.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tax_news_luxembourg_is_showing_off_its_reliable_tax_reputation_wit.png)
 
 ### Navigation
 - (none)
@@ -5240,7 +5566,9 @@
 
 ## Page 164: TAX NEWS : Luxembourg transfer pricing : from incunabula to proficiency ? - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/tax-news-luxembourg-transfer-pricing-from-incunabula-to-proficiency/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tax_news_luxembourg_transfer_pricing_from_incunabula_to_proficienc.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_tax_news_luxembourg_transfer_pricing_from_incunabula_to_proficienc.png)
 
 ### Navigation
 - (none)
@@ -5270,7 +5598,9 @@
 
 ## Page 165: SJL is now a member of the Luxembourg Private Equity & Venture Capital Association (LPEA) - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-now-a-member-of-the-luxembourg-private-equity-venture-capital-association-lpea/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_now_a_member_of_the_luxembourg_private_equity_venture_capit.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_now_a_member_of_the_luxembourg_private_equity_venture_capit.png)
 
 ### Navigation
 - (none)
@@ -5300,7 +5630,9 @@
 
 ## Page 166: SJL celebrates Chambers & Partners new edition - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-celebrates-chambers-partners-new-edition/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_celebrates_chambers_partners_new_edition_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_celebrates_chambers_partners_new_edition_.png)
 
 ### Navigation
 - (none)
@@ -5332,7 +5664,9 @@
 
 ## Page 167: IFLR1000 recommends SJL as a leading financial law firm in Banking & Finance and Capital Markets - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/iflr1000-recommends-sjl-as-a-leading-financial-law-firm-in-banking-finance-and-capital-markets/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_iflr1000_recommends_sjl_as_a_leading_financial_law_firm_in_banking.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_iflr1000_recommends_sjl_as_a_leading_financial_law_firm_in_banking.png)
 
 ### Navigation
 - (none)
@@ -5362,7 +5696,9 @@
 
 ## Page 168: SJL moves to the Glacis and triples its premsies' size - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-moves-to-the-glacis-and-triples-its-premsies-size/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_moves_to_the_glacis_and_triples_its_premsies_size_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_moves_to_the_glacis_and_triples_its_premsies_size_.png)
 
 ### Navigation
 - (none)
@@ -5392,7 +5728,9 @@
 
 ## Page 169: SJL is the DealMakers Country Award Winner for the second consecutive year - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-the-dealmakers-country-award-winner-for-the-second-consecutive-year/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_dealmakers_country_award_winner_for_the_second_consecut.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_dealmakers_country_award_winner_for_the_second_consecut.png)
 
 ### Navigation
 - (none)
@@ -5422,7 +5760,9 @@
 
 ## Page 170: SJL advises Helaba on financing to purchase the Carré Göttingen shopping center (DE) - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-advises-helaba-on-financing-to-purchase-the-carre-gottingen-shopping-center-de/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advises_helaba_on_financing_to_purchase_the_carre_gottingen_sh.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advises_helaba_on_financing_to_purchase_the_carre_gottingen_sh.png)
 
 ### Navigation
 - (none)
@@ -5452,7 +5792,9 @@
 
 ## Page 171: SJL has advised Infracapital Partners with their GBP 1.236bn acquisition of a 90% stake in Veolia Environnement S.A. - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-has-advised-infracapital-partners-with-their-gbp-1-236bn-acquisition-of-a-90-stake-in-veolia-environnement-s-a/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_has_advised_infracapital_partners_with_their_gbp_1_236bn_acqui.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_has_advised_infracapital_partners_with_their_gbp_1_236bn_acqui.png)
 
 ### Navigation
 - (none)
@@ -5482,7 +5824,9 @@
 
 ## Page 172: SJL enters the rankings of Chambers & Partners - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-enters-the-rankings-of-chambers-partners/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_enters_the_rankings_of_chambers_partners_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_enters_the_rankings_of_chambers_partners_.png)
 
 ### Navigation
 - (none)
@@ -5512,7 +5856,9 @@
 
 ## Page 173: SJL is the Lawyers World Law Award Winner 2012 in the category of Banking & Finance Lawyer of the Year - Luxembourg - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-the-lawyers-world-law-award-winner-2012-in-the-category-of-banking-finance-lawyer-of-the-year-luxembourg/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_lawyers_world_law_award_winner_2012_in_the_category_of_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_lawyers_world_law_award_winner_2012_in_the_category_of_.png)
 
 ### Navigation
 - (none)
@@ -5542,7 +5888,9 @@
 
 ## Page 174: SJL is the DealMakers Country Award Winner 2012 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-is-the-dealmakers-country-award-winner-2012/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_dealmakers_country_award_winner_2012_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_is_the_dealmakers_country_award_winner_2012_.png)
 
 ### Navigation
 - (none)
@@ -5572,7 +5920,9 @@
 
 ## Page 175: SJL - Luxembourg Capital Markets Law Firm of the Year 2011 - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-luxembourg-capital-markets-law-firm-of-the-year-2011/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_luxembourg_capital_markets_law_firm_of_the_year_2011_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_luxembourg_capital_markets_law_firm_of_the_year_2011_.png)
 
 ### Navigation
 - (none)
@@ -5602,7 +5952,9 @@
 
 ## Page 176: SJL - 2011 Luxembourg - Banking Law Firm of the Year Award - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-2011-luxembourg-banking-law-firm-of-the-year-award/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_2011_luxembourg_banking_law_firm_of_the_year_award_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_2011_luxembourg_banking_law_firm_of_the_year_award_.png)
 
 ### Navigation
 - (none)
@@ -5632,7 +5984,9 @@
 
 ## Page 177: SJL Advises The ProSiebenSat.1 Group - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-advises-the-prosiebensat-1-group/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advises_the_prosiebensat_1_group_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advises_the_prosiebensat_1_group_.png)
 
 ### Navigation
 - (none)
@@ -5662,7 +6016,9 @@
 
 ## Page 178: SJL Supports the Participation of the Grand Duchy of Luxembourg at the 54th Venice Biennale - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-supports-the-participation-of-the-grand-duchy-of-luxembourg-at-the-54th-venice-biennale/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_supports_the_participation_of_the_grand_duchy_of_luxembourg_at.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_supports_the_participation_of_the_grand_duchy_of_luxembourg_at.png)
 
 ### Navigation
 - (none)
@@ -5692,7 +6048,9 @@
 
 ## Page 179: Legal500, 2011 Recommends SJL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/legal500-2011-recommends-sjl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_legal500_2011_recommends_sjl_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_legal500_2011_recommends_sjl_.png)
 
 ### Navigation
 - (none)
@@ -5722,7 +6080,9 @@
 
 ## Page 180: Michel Jimenez Lunz - 2011 Banking & Finance Lawyer of the Year in Luxembourg - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/michel-jimenez-lunz-2011-banking-finance-lawyer-of-the-year-in-luxembourg/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_michel_jimenez_lunz_2011_banking_finance_lawyer_of_the_year_in_lux.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_michel_jimenez_lunz_2011_banking_finance_lawyer_of_the_year_in_lux.png)
 
 ### Navigation
 - (none)
@@ -5752,7 +6112,9 @@
 
 ## Page 181: Chambers & Partners highly recommends the partners of SJL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/chambers-partners-highly-recommends-the-partners-of-sjl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_chambers_partners_highly_recommends_the_partners_of_sjl_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_chambers_partners_highly_recommends_the_partners_of_sjl_.png)
 
 ### Navigation
 - (none)
@@ -5782,7 +6144,9 @@
 
 ## Page 182: Chambers & Partners recommends SJL - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/chambers-partners-recommends-sjl/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_chambers_partners_recommends_sjl_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_chambers_partners_recommends_sjl_.png)
 
 ### Navigation
 - (none)
@@ -5812,7 +6176,9 @@
 
 ## Page 183: SJL advised Arminius in the acquisition of properties worth approximately EUR 1 billion from Eurocastle - SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/sjl-advised-arminius-in-the-acquisition-of-properties-worth-approximately-eur-1-billion-from-eurocastle/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advised_arminius_in_the_acquisition_of_properties_worth_approx.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_sjl_advised_arminius_in_the_acquisition_of_properties_worth_approx.png)
 
 ### Navigation
 - (none)
@@ -5842,7 +6208,9 @@
 
 ## Page 184: jimenezlunz, Author at SJL JIMENEZ LUNZ
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/1/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_1_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_1_.png)
 
 ### Navigation
 - (none)
@@ -5878,7 +6246,9 @@
 
 ## Page 185: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 6 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/6/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_6_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_6_.png)
 
 ### Navigation
 - (none)
@@ -5914,7 +6284,9 @@
 
 ## Page 186: jimenezlunz, Author at SJL JIMENEZ LUNZ - Page 7 of 8
 **URL:** https://sjl-legal.com/author/jimenezlunz/page/7/
-**Screenshot:** `https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_7_.png`
+**Screenshot:**
+
+![](https://raw.githubusercontent.com/alphabooter007/screenshot/main/captures/sjl-legal-scrape/screenshots/sjl_legal_com_author_jimenezlunz_page_7_.png)
 
 ### Navigation
 - (none)
